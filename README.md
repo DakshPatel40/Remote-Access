@@ -63,8 +63,6 @@ To contribute:
 4. Push to your branch (`git push origin feature-branch`)
 5. Create a Pull Request.
 
-Make sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md) and check the open issues for discussion points!
-
 ---
 
 ## Getting Started
