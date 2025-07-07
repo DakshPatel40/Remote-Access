@@ -2,6 +2,10 @@
 
 *Empowering Seamless Remote Control and Connection*
 
+> 🚧 **This project is actively under development. Features may change frequently.**  
+> 🤝 *You can also contribute to this project!*
+
+
 ![last-commit](https://img.shields.io/github/last-commit/DakshPatel40/Remote-Access?style=flat&logo=git&logoColor=white&color=0080ff)
 ![repo-top-language](https://img.shields.io/github/languages/top/DakshPatel40/Remote-Access?style=flat&color=0080ff)
 ![repo-language-count](https://img.shields.io/github/languages/count/DakshPatel40/Remote-Access?style=flat&color=0080ff)
