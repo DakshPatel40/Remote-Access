@@ -9,6 +9,8 @@
 ![last-commit](https://img.shields.io/github/last-commit/DakshPatel40/Remote-Access?style=flat&logo=git&logoColor=white&color=0080ff)
 ![repo-top-language](https://img.shields.io/github/languages/top/DakshPatel40/Remote-Access?style=flat&color=0080ff)
 ![repo-language-count](https://img.shields.io/github/languages/count/DakshPatel40/Remote-Access?style=flat&color=0080ff)
+![license](https://img.shields.io/github/license/DakshPatel40/Remote-Access?style=flat&color=0080ff)
+
 
 *Built with the tools and technologies:*
 
@@ -23,6 +25,8 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Features](#features)
+- [Contributing](#contributing)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -33,18 +37,33 @@
 
 ## Overview
 
-Remote-Access is a powerful Android framework designed to enable secure remote device control, screen sharing, and automation. Built with a modular architecture, it leverages Firebase for real-time command exchange and streamlines development with centralized build configurations.
+Remote-Access is a powerful Android framework for secure device control, automation, and screen sharing — all built on modern Android tech like Kotlin, Jetpack Compose, and Firebase.
 
-**Why Remote-Access?**
+---
 
-This project simplifies remote device management and automation, making it ideal for developers seeking reliable, scalable solutions. The core features include:
+## Features
 
-- 🧩 **🔧 Modular Build System:** Centralized Gradle configurations ensure consistent project setup across modules.
-- 🚀 **📱 Real-Time Screen Sharing:** Capture and stream device screens seamlessly for remote monitoring.
-- ⚙️ **🔗 Firebase Integration:** Real-time commands and data exchange for remote control and automation.
-- 🛠️ **Accessibility Automation:** Android Accessibility Service enables remote input and gesture execution.
-- 🎨 **UI Theming:** Consistent, adaptable themes built with Jetpack Compose for a polished user experience.
-- 🧪 **Testing Infrastructure:** Built-in unit and instrumented tests ensure reliability and maintainability.
+- 🔧 **Modular Build System** – Centralized Gradle configurations ensure consistent project setup.
+- 📱 **Real-Time Screen Sharing** – Seamlessly stream your device screen for monitoring or support.
+- 🔗 **Firebase Integration** – Real-time communication for device control and data exchange.
+- 🛠️ **Accessibility Automation** – Control Android devices using Accessibility Services.
+- 🎨 **Custom UI Theming** – Built using Jetpack Compose for a clean, responsive UI.
+- 🧪 **Robust Testing Support** – Includes unit and instrumented tests for stability and quality.
+
+---
+
+## Contributing
+
+We welcome contributions from the community!
+
+To contribute:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -m 'Add cool feature'`)
+4. Push to your branch (`git push origin feature-branch`)
+5. Create a Pull Request.
+
+Make sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md) and check the open issues for discussion points!
 
 ---
 
