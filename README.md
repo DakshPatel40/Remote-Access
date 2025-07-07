@@ -19,7 +19,7 @@
 ![XML](https://img.shields.io/badge/XML-005FAD.svg?style=flat&logo=XML&logoColor=white)
 ![bat](https://img.shields.io/badge/bat-31369E.svg?style=flat&logo=bat&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=Kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-ff7221?style=flat&logo=firebase&logoColor=black)
 
 ---
 
