@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188929070485",
+    "project_id": "remoteaccess-6b116",
+    "storage_bucket": "remoteaccess-6b116.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188929070485:android:6c2e1ab237c1c25ede129c",
+        "android_client_info": {
+          "package_name": "com.example.remoteaccess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMDbkVTxVdQaYN30pt87LRjYvdBLPjtfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
